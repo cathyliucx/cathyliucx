@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+### 🇬🇧 English
+
 I'm an AI Researcher with an interdisciplinary background spanning Cognitive Psychology (BS), Cognitive Neuroscience (MS), and Computer Science (PhD). 
 
 **Research Interests:**
@@ -10,11 +12,13 @@ I'm an AI Researcher with an interdisciplinary background spanning Cognitive Psy
 **Featured Projects:**
 * 💡 **Agents for Factor Mining**: Leverages multi-agent systems to automatically research, formulate, and validate quantitative alpha factors for financial investment.
 * 🧬 **Agents for LNP Discovery**: Utilizes AI agents to accelerate the screening, molecular design, and formulation optimization of Lipid Nanoparticles (LNPs) for targeted drug delivery.
+* 🤖 **Wearable Companion Robot for Emotion & Sleep Management**: Combines multimodal physiological sensing and affective computing to deliver personalized emotional regulation and sleep intervention.
 
 **Hobbies & Interests:**
 🎾 Tennis | 🏸 Badminton | 🎸 Electric Guitar | 🎤 Singing
 
 ---
+### 🇨🇳 中文
 
 你好！我是一名 AI 研究员，拥有认知心理学学士、认知神经科学硕士以及计算机科学博士的跨学科背景。
 

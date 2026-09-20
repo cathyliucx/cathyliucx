@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 🇬🇧 English
-I'm an AI Researcher with an interdisciplinary background spanning Cognitive Psychology (BS), Cognitive Neuroscience (MS), and Computer Science (PhD). My research bridges human cognition and advanced computing to build intelligent, human-centered systems.
+I'm an AI Researcher with an interdisciplinary background spanning Cognitive Psychology (BS), Cognitive Neuroscience (MS), and Computer Science (PhD). 
 
 **Research Interests:**
 * 🤖 **AI for Data Science** – Automating data analytics and data mining.
@@ -18,8 +18,7 @@ I'm an AI Researcher with an interdisciplinary background spanning Cognitive Psy
 ---
 
 ### 🇨🇳 中文
-你好！我是一名 AI 研究员，拥有认知心理学学士、认知神经科学硕士以及计算机科学博士的跨学科背景。我致力于将人类认知机制与前沿计算技术相结合，构建智能化与以人为本的系统。
-
+你好！我是一名 AI 研究员，拥有认知心理学学士、认知神经科学硕士以及计算机科学博士的跨学科背景。
 **研究与关注领域：**
 * 🤖 **AI for Data Science（数据科学人工智能）**：自动化数据分析与挖掘。
 * 📈 **AI for Investment（智慧投资与量化）**：机器学习与量化模型在金融市场的应用。

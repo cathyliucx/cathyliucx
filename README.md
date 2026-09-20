@@ -12,7 +12,7 @@ I'm an AI Researcher with an interdisciplinary background spanning Cognitive Psy
 **Featured Projects:**
 * 💡 **Agents for Factor Mining**: Leverages multi-agent systems to automatically research, formulate, and validate quantitative alpha factors for financial investment.
 * 🧬 **Agents for LNP Discovery**: Utilizes AI agents to accelerate the screening, molecular design, and formulation optimization of Lipid Nanoparticles (LNPs) for targeted drug delivery.
-* 🤖 **Wearable Companion Robot for Emotion & Sleep Management**: Combines multimodal physiological sensing and affective computing to deliver personalized emotional regulation and sleep intervention.
+* 🤖 **Wearable Companion Box for Emotion & Sleep Management**: Combines multimodal physiological sensing and affective computing to deliver personalized emotional regulation and sleep intervention.
 
 **Hobbies & Interests:**
 🎾 Tennis | 🏸 Badminton | 🎸 Electric Guitar | 🎤 Singing
@@ -30,6 +30,7 @@ I'm an AI Researcher with an interdisciplinary background spanning Cognitive Psy
 **重点项目：**
 * 💡 **Agents for 因子挖掘**：利用多智能体系统自主进行量化 Alpha 因子的构建、挖掘与回测验证，提升投资研究效率。
 * 🧬 **Agents for LNP Discovery**：应用 AI Agent 赋能脂质纳米颗粒（LNP）的分子设计与配方筛选，加速核酸药物递送系统的研发进程。
+* 🤖 **可穿戴陪伴小方盒（情绪管理与睡眠促进）**：结合多模态生理感知与情感计算技术，提供个性化的情绪调节与助眠干预服务。
 
 **业余爱好：**
 🎾 网球 | 🏸 羽毛球 | 🎸 电吉他 | 🎤 唱歌

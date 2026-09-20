@@ -13,7 +13,7 @@ I'm an AI Researcher with an interdisciplinary background spanning Cognitive Psy
 * 🧬 **Agents for LNP Discovery**: Utilizes AI agents to accelerate the screening, molecular design, and formulation optimization of Lipid Nanoparticles (LNPs) for targeted drug delivery.
 
 **Hobbies & Interests:**
-🎾 Tennis | 🏸 Badminton | 🚴‍♀️ Cycling | 🎸 Electric Guitar | 🎤 Singing
+🎾 Tennis | 🏸 Badminton | 🎸 Electric Guitar | 🎤 Singing
 
 ---
 
@@ -30,5 +30,5 @@ I'm an AI Researcher with an interdisciplinary background spanning Cognitive Psy
 * 🧬 **Agents for LNP Discovery**：应用 AI Agent 赋能脂质纳米颗粒（LNP）的分子设计与配方筛选，加速核酸药物递送系统的研发进程。
 
 **业余爱好：**
-🎾 网球 | 🏸 羽毛球 | 🚴‍♀️ 骑行 | 🎸 电吉他 | 🎤 唱歌
+🎾 网球 | 🏸 羽毛球 | 🎸 电吉他 | 🎤 唱歌
 

@@ -20,7 +20,7 @@ My background in cognitive psychology, cognitive neuroscience, and computer scie
 * 📚 **Obsidian Knowledge Base**: A systematic knowledge vault covering AI, Quantitative Finance, and Software Engineering.
   * 📖 **Book: Deep Dive in Python**: An in-depth book project within the knowledge base, focusing on Python's execution mechanics, advanced paradigms, memory management, and concurrent architecture.
 * 🧠 **Obsidian Second Brain**: An execution-oriented project vault for managing personal projects, workflows, and deliverables.
-  * 💡 **Agents for Factor Mining**: Leverages multi-agent systems to automatically research, formulate, and validate quantitative alpha factors for financial investment.
+  * 💡 **Agents for Factor Investment**: Leverages multi-agent systems to automatically research, formulate, and validate quantitative alpha factors for financial investment.
   * 🧬 **Agents for LNP Discovery**: Utilizes AI agents to accelerate the screening, molecular design, and formulation optimization of Lipid Nanoparticles (LNPs) for targeted drug delivery.
   * 🤖 **Wearable Companion Robot for Emotion & Sleep Management**: Combines multimodal physiological sensing and affective computing to deliver personalized emotional regulation and sleep intervention.
     
@@ -47,7 +47,7 @@ My background in cognitive psychology, cognitive neuroscience, and computer scie
 * 📚 **Obsidian 知识库（Knowledge Base）**：构建涵盖 AI、量化金融（Quant）与软件工程的系统化知识体系。
   * 📖 **专著《Deep Dive in Python》**：知识库下的重点写作项目，专注于 Python 运行机制、高级编程范式、内存管理与并发架构的深度进阶指南。
 * 🧠 **Obsidian 第二大脑（Second Brain）**：以项目为导向的个人项目管理 Vault，用于梳理、追踪与执行各类实战项目：
-  * 💡 **Agents for 因子挖掘**：利用多智能体系统自主进行量化 Alpha 因子的构建、挖掘与回测验证，提升投资研究效率。
+  * 💡 **Agents for 因子投资**：利用多智能体系统自主进行量化 Alpha 因子的构建、挖掘与回测验证，提升投资研究效率。
   * 🧬 **Agents for LNP Discovery**：应用 AI Agent 赋能脂质纳米颗粒（LNP）的分子设计与配方筛选，加速核酸药物递送系统的研发进程。
   * 🤖 **可穿戴陪伴小机器人（情绪管理与睡眠促进）**：结合多模态生理感知与情感计算技术，提供个性化的情绪调节与助眠干预服务。
 

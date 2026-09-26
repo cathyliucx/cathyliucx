@@ -5,6 +5,7 @@
 I'm an AI Researcher with an interdisciplinary background spanning Cognitive Neuroscience (MS) and Computer Science (PhD). 
 
 **Research Interests:**
+
 🤖 AI for Science — Developing AI Scientists and agentic systems to accelerate and automate scientific workflows, including hypothesis generation, experimental design, and research validation.
 📈 AI for Investment — Training domain-specialized AI models and building agentic systems for automated investment research, from financial data analysis and factor discovery to strategy evaluation and decision support.
 🖥️ Human–Computer Interaction (HCI) — Studying human–agent collaboration in complex agentic systems, with a focus on human-in-the-loop interaction, expert feedback, and shared control.
@@ -27,6 +28,7 @@ I'm an AI Researcher with an interdisciplinary background spanning Cognitive Neu
 你好！我是一名 AI 研究员，计算机博士，拥有认知神经科学及计算机科学的跨学科背景。
 
 **研究与关注领域：**
+
 🤖 AI for Science｜人工智能驱动的科学研究 — 研究 AI Scientist 与智能体系统，加速科研流程并提升自动化水平，涵盖假设生成、实验设计与研究验证。
 📈 AI for Investment｜人工智能驱动的投资研究 — 训练投资领域的专业模型，构建自动化投研智能体系统，涵盖金融数据分析、因子挖掘、策略评估与投资决策支持。
 🖥️ HCI｜人机交互 — 研究复杂智能体系统中的人机协作与交互，重点关注人在环（Human-in-the-loop）机制、专家反馈与人机共享控制。

@@ -4,6 +4,9 @@
 
 I'm an AI Researcher with an interdisciplinary background spanning Cognitive Neuroscience (MS) and Computer Science (PhD). 
 
+These directions share a common goal: building AI research systems that generate hypotheses, evaluate evidence, and learn continually. AI for Science provides the overarching framework for automating research, while AI for Investment—particularly factor discovery and strategy validation—extends this framework into asset management. Human-in-the-loop & Cognitive-inspired AI provides a methodological foundation for both, incorporating cognitive principles, expert knowledge, and feedback into agent learning and decision-making. My background in cognitive psychology, cognitive neuroscience, and computer science connects these directions across cognition, algorithms, and applications.
+
+
 **Research Interests:**
 
 * 🤖 **AI for Science** — Developing AI Scientists and agentic systems to accelerate and automate scientific workflows, including hypothesis generation, experimental design, and research validation.
@@ -25,7 +28,10 @@ I'm an AI Researcher with an interdisciplinary background spanning Cognitive Neu
 ---
 ### 🇨🇳 中文
 
-你好！我是一名 AI 研究员，计算机博士，拥有认知神经科学及计算机科学的跨学科背景。
+你好！我是一名 AI 研究员，计算机博士，拥有认知神经科学及计算机科学的跨学科背景。我的研究聚焦于 **AI for Science、AI for Investment，以及人在环与认知启发的 AI**，目标是构建能够提出假设、验证证据、持续学习并与人协作的智能体系统。其中，AI for Science 探索科研流程的智能化；AI for Investment 将这一思路延伸至资产管理中的因子发现与策略研究；人在环与认知启发的 AI 则提供贯穿两者的方法，将认知机制、专家知识与反馈融入智能体的学习和决策。
+
+这一选择源于我的认知心理学学士、认知神经科学硕士与计算机博士背景：前两者帮助我理解人如何学习、推理与决策，计算机训练则使我能够将这些认识转化为模型与算法。我希望结合这些背景，既研究提升 AI 学习与推理能力的方法，也在真实科研与投研任务中检验其价值。
+
 
 **研究与关注领域：**
 

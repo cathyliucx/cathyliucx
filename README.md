@@ -4,7 +4,8 @@
 
 I'm an AI Researcher with an interdisciplinary background spanning Cognitive Neuroscience (MS) and Computer Science (PhD). 
 
-These directions share a common goal: building AI research systems that generate hypotheses, evaluate evidence, and learn continually. AI for Science provides the overarching framework for automating research, while AI for Investment—particularly factor discovery and strategy validation—extends this framework into asset management. Human-in-the-loop & Cognitive-inspired AI provides a methodological foundation for both, incorporating cognitive principles, expert knowledge, and feedback into agent learning and decision-making. My background in cognitive psychology, cognitive neuroscience, and computer science connects these directions across cognition, algorithms, and applications.
+These directions share a common goal: building AI research systems that generate hypotheses, evaluate evidence, and learn continually. AI for Science provides the overarching framework for automating research, while AI for Investment—particularly factor discovery and strategy validation—extends this framework into asset management. Human-in-the-loop & Cognitive-inspired AI provides a methodological foundation for both, incorporating cognitive principles, expert knowledge, and feedback into agent learning and decision-making. 
+My background in cognitive psychology, cognitive neuroscience, and computer science connects these directions across cognition, algorithms, and applications.
 
 
 **Research Interests:**

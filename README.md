@@ -2,12 +2,13 @@
 
 ### 🇬🇧 English
 
-I'm an AI Researcher with an interdisciplinary background spanning Cognitive Psychology (BS), Cognitive Neuroscience (MS), and Computer Science (PhD). 
+I'm an AI Researcher with an interdisciplinary background spanning Cognitive Neuroscience (MS) and Computer Science (PhD). 
 
 **Research Interests:**
-* 🤖 **AI for Data Science** – Automating data analytics and data mining.
-* 📈 **AI for Investment** – Applying AI to investment markets.
-* 🖥️ **Human-Computer Interaction (HCI)** – Conducting Multimodal Affective Computing.
+🤖 AI for Science — Developing AI Scientists and agentic systems to accelerate and automate scientific workflows, including hypothesis generation, experimental design, and research validation.
+📈 AI for Investment — Training domain-specialized AI models and building agentic systems for automated investment research, from financial data analysis and factor discovery to strategy evaluation and decision support.
+🖥️ Human–Computer Interaction (HCI) — Studying human–agent collaboration in complex agentic systems, with a focus on human-in-the-loop interaction, expert feedback, and shared control.
+
 
 **Vaults & Workflows:**
 * 📚 **Obsidian Knowledge Base**: A systematic knowledge vault covering AI, Quantitative Finance, and Software Engineering.
@@ -23,12 +24,13 @@ I'm an AI Researcher with an interdisciplinary background spanning Cognitive Psy
 ---
 ### 🇨🇳 中文
 
-你好！我是一名 AI 研究员，拥有认知心理学学士、认知神经科学硕士以及计算机科学博士的跨学科背景。
+你好！我是一名 AI 研究员，计算机博士，拥有认知神经科学及计算机科学的跨学科背景。
 
 **研究与关注领域：**
-* 🤖 **AI for Data Science（数据科学人工智能）**：自动化数据分析与挖掘。
-* 📈 **AI for Investment（智慧投资与量化）**：AI在投资市场中的应用。
-* 🖥️ **人机交互（HCI）**：多模态情感计算。
+🤖 AI for Science｜人工智能驱动的科学研究 — 研究 AI Scientist 与智能体系统，加速科研流程并提升自动化水平，涵盖假设生成、实验设计与研究验证。
+📈 AI for Investment｜人工智能驱动的投资研究 — 训练投资领域的专业模型，构建自动化投研智能体系统，涵盖金融数据分析、因子挖掘、策略评估与投资决策支持。
+🖥️ HCI｜人机交互 — 研究复杂智能体系统中的人机协作与交互，重点关注人在环（Human-in-the-loop）机制、专家反馈与人机共享控制。
+
 
 **知识库与第二大脑：**
 * 📚 **Obsidian 知识库（Knowledge Base）**：构建涵盖 AI、量化金融（Quant）与软件工程的系统化知识体系。

@@ -6,9 +6,9 @@ I'm an AI Researcher with an interdisciplinary background spanning Cognitive Neu
 
 **Research Interests:**
 
-🤖 AI for Science — Developing AI Scientists and agentic systems to accelerate and automate scientific workflows, including hypothesis generation, experimental design, and research validation.
-📈 AI for Investment — Training domain-specialized AI models and building agentic systems for automated investment research, from financial data analysis and factor discovery to strategy evaluation and decision support.
-🖥️ Human–Computer Interaction (HCI) — Studying human–agent collaboration in complex agentic systems, with a focus on human-in-the-loop interaction, expert feedback, and shared control.
+* 🤖 **AI for Science** — Developing AI Scientists and agentic systems to accelerate and automate scientific workflows, including hypothesis generation, experimental design, and research validation.
+* 📈 **AI for Investment** — Training domain-specialized AI models and building agentic systems for automated investment research, from financial data analysis and factor discovery to strategy evaluation and decision support.
+* 🖥️ **Human-in-the-loop AI** — Developing agent learning and collaboration methods that integrate human knowledge and feedback for complex tasks, with a focus on learning from expert feedback, adaptive human–agent task allocation, and continual improvement through interaction.
 
 
 **Vaults & Workflows:**
@@ -29,10 +29,9 @@ I'm an AI Researcher with an interdisciplinary background spanning Cognitive Neu
 
 **研究与关注领域：**
 
-🤖 AI for Science｜人工智能驱动的科学研究 — 研究 AI Scientist 与智能体系统，加速科研流程并提升自动化水平，涵盖假设生成、实验设计与研究验证。
-📈 AI for Investment｜人工智能驱动的投资研究 — 训练投资领域的专业模型，构建自动化投研智能体系统，涵盖金融数据分析、因子挖掘、策略评估与投资决策支持。
-🖥️ HCI｜人机交互 — 研究复杂智能体系统中的人机协作与交互，重点关注人在环（Human-in-the-loop）机制、专家反馈与人机共享控制。
-
+* 🤖 **AI for Science｜人工智能驱动的科学研究** — 研究 AI Scientist 与智能体系统，加速科研流程并提升自动化水平，涵盖假设生成、实验设计与研究验证。
+* 📈 **AI for Investment｜人工智能驱动的投资研究** — 训练投资领域的专业模型，构建自动化投研智能体系统，涵盖金融数据分析、因子挖掘、策略评估与投资决策支持。
+* 🖥️ **Human-in-the-loop AI｜人在环智能体学习与协作** — 研究复杂任务中融合人类知识与反馈的智能体方法，重点关注专家反馈驱动的学习、自适应人机任务分配，以及交互中的持续改进。
 
 **知识库与第二大脑：**
 * 📚 **Obsidian 知识库（Knowledge Base）**：构建涵盖 AI、量化金融（Quant）与软件工程的系统化知识体系。

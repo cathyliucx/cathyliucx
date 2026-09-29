@@ -40,12 +40,10 @@ My long-term goal is to develop intelligent research systems that automate resea
 
 ## Knowledge Base & Project Workspace
 
-* 📚 **Obsidian Knowledge Base**
-  * A systematic knowledge system covering AI, Quantitative Finance, Software Development, Finance, and engineering methodologies.
+* 📚 **Obsidian Knowledge Base** A systematic knowledge system covering AI, Quantitative Finance, Software Development, and engineering methodologies.
   * 📖 **Book: Deep Dive in Python** — A long-term book project exploring Python execution mechanisms, advanced programming paradigms, memory management, concurrency, and software engineering.
 
-* 🧠 **Obsidian Project Workspace**
-  * A project-oriented workspace for managing research, engineering, and practical projects from idea exploration to implementation, experimentation, and reflection.
+* 🧠 **Obsidian Project Workspace** A project-oriented workspace for managing research, engineering, and practical projects from idea exploration to implementation, experimentation, and reflection.
 
   * 💡 **Agents for Factor Investment** — Building self-improving multi-agent systems for quantitative investment research and workflow automation.
 
@@ -105,14 +103,11 @@ My long-term goal is to develop intelligent research systems that automate resea
 
 ## 知识库与项目工作空间
 
-* 📚 **Obsidian Knowledge Base（知识库）**
+* 📚 **Obsidian Knowledge Base（知识库）**： 构建涵盖 AI、量化金融、软件开发、金融以及工程实践的长期知识体系。
 
-  * 构建涵盖 AI、量化金融、软件开发、金融以及工程实践的长期知识体系。
   * 📖 **《Deep Dive in Python》** —— 长期写作项目，系统梳理 Python 运行机制、高级编程范式、内存管理、并发架构以及软件工程实践。
 
-* 🧠 **Obsidian Project Workspace（项目工作空间）**
-
-  * 用于管理研究课题、工程开发以及实践项目，覆盖从想法、调研、实现、实验到复盘的完整生命周期。
+* 🧠 **Obsidian Project Workspace（项目工作空间）**：用于管理研究课题、工程开发以及实践项目，覆盖从想法、调研、实现、实验到复盘的完整生命周期。
 
   * 💡 **Agents for Factor Investment** —— 构建面向量化投资研究的自进化多智能体系统，实现投研流程自动化。
 

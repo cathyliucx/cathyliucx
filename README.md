@@ -14,6 +14,7 @@ My background in cognitive psychology, cognitive neuroscience, and computer scie
 * 🤖 **AI for Science** — Developing AI Scientists and agentic systems to accelerate and automate scientific workflows, including hypothesis generation, experimental design, and research validation.
 * 📈 **AI for Investment** — Training domain-specialized AI models and building agentic systems for automated investment research, from financial data analysis and factor discovery to strategy evaluation and decision support.
 * 🖥️ **Human-in-the-loop AI** — Developing agent learning and collaboration methods that integrate human knowledge and feedback for complex tasks, with a focus on learning from expert feedback, adaptive human–agent task allocation, and continual improvement through interaction.
+* 
 
 
 **Vaults & Workflows:**

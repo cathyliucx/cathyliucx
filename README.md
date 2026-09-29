@@ -36,7 +36,7 @@ My current research primarily applies these ideas to **quantitative investment r
 
 ### Hobbies & Interests
 
-🎾 Tennis | 🏸 Badminton | 🎸 Electric Guitar | 🎤 Singing
+🎾 Tennis | 🏸 Badminton | 🎸 Electric Guitar | 🤘 Rock
 
 <br>
 
@@ -72,4 +72,4 @@ My current research primarily applies these ideas to **quantitative investment r
 
 ### 业余爱好
 
-🎾 网球 | 🏸 羽毛球 | 🎸 电吉他 | 🎤 唱歌
+🎾 网球 | 🏸 羽毛球 | 🎸 电吉他 | 🤘 摇滚

@@ -55,7 +55,7 @@ My long-term goal is to develop intelligent research systems that automate resea
 
 ## Hobbies
 
-🎾 Tennis ｜ 🏸 Badminton ｜ 🎸 Electric Guitar ｜ 🎤 Singing
+🎾 Tennis ｜ 🏸 Badminton ｜ 🎸 Electric Guitar ｜ 🤘 Rock
 
 ---
 
@@ -119,4 +119,4 @@ My long-term goal is to develop intelligent research systems that automate resea
 
 ## 业余爱好
 
-🎾 网球 ｜ 🏸 羽毛球 ｜ 🎸 电吉他 ｜ 🎤 唱歌
+🎾 网球 ｜ 🏸 羽毛球 ｜ 🎸 电吉他 ｜ 🤘 摇滚

@@ -39,7 +39,7 @@ Alongside this direction, I am interested in **Human-Aware AI**, particularly mu
 
 ## 🇨🇳 中文
 
-你好！我是一名 AI 研究员，拥有**认知神经科学（硕士）**与**计算机科学（博士）**的跨学科背景。
+你好！我是一名 AI 研究员，拥有**认知神经科学（硕士)** 与 **计算机科学（博士)** 的跨学科背景。
 
 我的研究聚焦于**自进化协作智能体（Self-Improving Collaborative AI Agents）**，关注智能体如何在复杂研究与决策过程中，通过反馈、经验、记忆与人机协作持续提升推理、研究与决策能力。
 

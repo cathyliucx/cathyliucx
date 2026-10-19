@@ -28,7 +28,6 @@ Alongside this direction, I am interested in **Human-Aware AI**, particularly mu
 
 * 🧠 **Obsidian Project Workspace** — Research and engineering projects from exploration to experimentation and implementation.
   * 💡 **Agents for Factor Investment** — Self-improving multi-agent systems for quantitative investment research.
-  * 🧬 **Agents for LNP Discovery** — AI agents for molecular design, screening, and formulation optimization of Lipid Nanoparticles.
   * 🤖 **Wearable Companion Robot for Emotion & Sleep Management** — Human-aware AI combining physiological sensing, affective computing, and adaptive interaction.
 
 ### Hobbies & Interests

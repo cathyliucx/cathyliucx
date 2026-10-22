@@ -60,7 +60,6 @@ Alongside this direction, I am interested in **Human-Aware AI**, particularly mu
 
 * 🧠 **Obsidian Project Workspace（项目工作空间）** —— 管理从探索、实验到实现的研究与工程项目。
   * 💡 **Agents for Factor Investment** —— 面向量化投资研究的自进化多智能体系统。
-  * 🧬 **Agents for LNP Discovery** —— 面向 LNP 分子设计、筛选与配方优化的 AI Agent。
   * 🤖 **可穿戴陪伴机器人（情绪管理与睡眠促进）** —— 融合生理感知、情感计算与自适应交互的人本智能体系统。
 
 ### 业余爱好
